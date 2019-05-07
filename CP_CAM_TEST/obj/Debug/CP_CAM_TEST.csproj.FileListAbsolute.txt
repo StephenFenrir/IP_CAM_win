@@ -1,0 +1,17 @@
+C:\Users\StephenCH_Chen\Desktop\Asteria ACS MOSTV\[SOURCE_CODE]\CP_CAM_TEST\CP_CAM_TEST\bin\Debug\CP_CAM_TEST.exe.config
+C:\Users\StephenCH_Chen\Desktop\Asteria ACS MOSTV\[SOURCE_CODE]\CP_CAM_TEST\CP_CAM_TEST\obj\Debug\CP_CAM_TEST.Form1.resources
+C:\Users\StephenCH_Chen\Desktop\Asteria ACS MOSTV\[SOURCE_CODE]\CP_CAM_TEST\CP_CAM_TEST\obj\Debug\CP_CAM_TEST.Properties.Resources.resources
+C:\Users\StephenCH_Chen\Desktop\Asteria ACS MOSTV\[SOURCE_CODE]\CP_CAM_TEST\CP_CAM_TEST\obj\Debug\CP_CAM_TEST.csproj.GenerateResource.Cache
+C:\Users\StephenCH_Chen\Desktop\Asteria ACS MOSTV\[SOURCE_CODE]\CP_CAM_TEST\CP_CAM_TEST\bin\Debug\CP_CAM_TEST.exe
+C:\Users\StephenCH_Chen\Desktop\Asteria ACS MOSTV\[SOURCE_CODE]\CP_CAM_TEST\CP_CAM_TEST\bin\Debug\CP_CAM_TEST.pdb
+C:\Users\StephenCH_Chen\Desktop\Asteria ACS MOSTV\[SOURCE_CODE]\CP_CAM_TEST\CP_CAM_TEST\bin\Debug\AForge.Imaging.dll
+C:\Users\StephenCH_Chen\Desktop\Asteria ACS MOSTV\[SOURCE_CODE]\CP_CAM_TEST\CP_CAM_TEST\bin\Debug\AForge.Math.dll
+C:\Users\StephenCH_Chen\Desktop\Asteria ACS MOSTV\[SOURCE_CODE]\CP_CAM_TEST\CP_CAM_TEST\bin\Debug\AForge.Video.dll
+C:\Users\StephenCH_Chen\Desktop\Asteria ACS MOSTV\[SOURCE_CODE]\CP_CAM_TEST\CP_CAM_TEST\bin\Debug\AForge.dll
+C:\Users\StephenCH_Chen\Desktop\Asteria ACS MOSTV\[SOURCE_CODE]\CP_CAM_TEST\CP_CAM_TEST\bin\Debug\AForge.Imaging.xml
+C:\Users\StephenCH_Chen\Desktop\Asteria ACS MOSTV\[SOURCE_CODE]\CP_CAM_TEST\CP_CAM_TEST\bin\Debug\AForge.Math.xml
+C:\Users\StephenCH_Chen\Desktop\Asteria ACS MOSTV\[SOURCE_CODE]\CP_CAM_TEST\CP_CAM_TEST\bin\Debug\AForge.Video.xml
+C:\Users\StephenCH_Chen\Desktop\Asteria ACS MOSTV\[SOURCE_CODE]\CP_CAM_TEST\CP_CAM_TEST\bin\Debug\AForge.xml
+C:\Users\StephenCH_Chen\Desktop\Asteria ACS MOSTV\[SOURCE_CODE]\CP_CAM_TEST\CP_CAM_TEST\obj\Debug\CP_CAM_TEST.exe
+C:\Users\StephenCH_Chen\Desktop\Asteria ACS MOSTV\[SOURCE_CODE]\CP_CAM_TEST\CP_CAM_TEST\obj\Debug\CP_CAM_TEST.pdb
+C:\Users\StephenCH_Chen\Desktop\Asteria ACS MOSTV\[SOURCE_CODE]\CP_CAM_TEST\CP_CAM_TEST\obj\Debug\CP_CAM_TEST.csprojResolveAssemblyReference.cache
